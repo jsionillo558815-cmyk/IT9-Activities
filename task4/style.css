@@ -1,0 +1,15 @@
+body {
+  background-color: cyan;
+}
+
+table {
+  width: 60%;
+  border-collapse: collapse; /* this is so that the border will merge and looks clean table */
+  margin: 20px;
+}
+
+td,
+th {
+  border: 5px solid black;
+  padding: 5px;
+}
